@@ -1,0 +1,11 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <AndroidXmlCodeStyleSettings>
+      <option name="USE_CUSTOM_SETTINGS" value="true" />
+    </AndroidXmlCodeStyleSettings>
+    <XML>
+      <option name="XML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
+      <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    </XML>
+  </code_scheme>
+</component>
